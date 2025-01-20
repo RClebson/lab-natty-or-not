@@ -21,21 +21,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+Guia de estudo IA Genertiva
 ## 📒 Descrição
-Breve descrição do seu projeto
+Roteiro para a Adocao da IA Generativa
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+Chat Gpt4, Gamaapp
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+ O conteúdo é um guia rapido sobre IA Generativas
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto foi feito atraves de texto e imagens
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Sobre o desafio de criar algo 'natty' com IA, ele é muito interesante pois, dápara explorar todos os tipos de IAs generativas
 ```
 
 ### Exemplos e Insigths
